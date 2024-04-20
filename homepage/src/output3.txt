@@ -1,0 +1,12 @@
+{
+  "API_invoke_url": {
+    "sensitive": false,
+    "type": "string",
+    "value": "https://0zz51ld7ld.execute-api.us-east-1.amazonaws.com/dev"
+  },
+  "new_path_output": {
+    "sensitive": false,
+    "type": "string",
+    "value": "/Users/soudagarlondhe/Documents/MS-Sem2/Cloud/Team6_31stMarchb/Attendance_Automation/dataset"
+  }
+}
